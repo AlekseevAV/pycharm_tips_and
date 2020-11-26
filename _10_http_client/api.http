@@ -1,0 +1,9 @@
+
+GET https://httpbin.org/status/200
+
+###
+
+# curl https://httpbin.org/status/200
+GET https://httpbin.org/status/200
+
+###

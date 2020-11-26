@@ -1,0 +1,15 @@
+MT_ORDER_ADDON_MODEL_MAP = {
+    'REAL.SERVER.1': 'exness_mt.models.order_addons.MT4OrderAddon2',
+    'REAL.SERVER.2': 'exness_mt.models.order_addons.MT4OrderAddon3',
+    'REAL.SERVER.3': 'exness_mt.models.order_addons.MT4OrderAddon4',
+    'REAL.SERVER.4': 'exness_mt.models.order_addons.MT4OrderAddon5',
+    'REAL.SERVER.5': 'exness_mt.models.order_addons.MT4OrderAddon6',
+    'REAL.SERVER.6': 'exness_mt.models.order_addons.MT4OrderAddon8',
+    'REAL.SERVER.7': 'exness_mt.models.order_addons.MT4OrderAddon9',
+    'REAL.SERVER.10': 'exness_mt.models.order_addons.MT4OrderAddon13',
+    'REAL.SERVER.11': 'exness_mt.models.order_addons.MT4OrderAddon14',
+    'TRIAL.SERVER.1': 'exness_mt.models.order_addons.MT4OrderAddon2',
+    'TRIAL.SERVER.2': 'exness_mt.models.order_addons.MT4OrderAddon7',
+    'TRIAL.SERVER.3': 'exness_mt.models.order_addons.MT4OrderAddon10',
+    'TRIAL.SERVER.MT5': 'exness_mt.models.order_addons.MT4OrderAddon17',
+}

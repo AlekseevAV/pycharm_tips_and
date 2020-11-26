@@ -1,5 +1,7 @@
 # PlantUML plugin
 
+[Cheat sheet of PlantUML](https://ogom.github.io/draw_uml/plantuml/)
+
 ## Activity
 
 ![example](static/activity.png)

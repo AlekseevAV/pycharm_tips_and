@@ -18,7 +18,7 @@ Command for search another PyCharm commands/options/actions:
 ![example](static/image16.gif)
 
 
-## Reed next
+## Read next
 
 * [Code navigation](_1_code_navigation/README.md)
 * [Multiselect](_2_multiselect/README.md)

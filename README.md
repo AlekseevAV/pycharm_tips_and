@@ -1,7 +1,5 @@
 # PyCharm tips and tricks meetup project
 
-[Slides](https://docs.google.com/presentation/d/1KSF7fJds1Q0F6NwgVb-e4qBTvHEIXrMqbGyTjkyaO8U/edit?usp=sharing)
-
 ## Introduction
 
 Useful video about PyCharm - [7 советов по редактированию кода в PyCharm](https://www.youtube.com/watch?v=FW3_OPBxk2s)
